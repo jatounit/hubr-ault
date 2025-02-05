@@ -7,6 +7,6 @@ Top mount case for Vault35 pcbs. Like the original, it has a 5 degree angle and 
 
 Uses 10x m2.5x4(ish)mm screws, a custom plate based on the coriander plate, and [SKUF Keyboard feet](https://github.com/Zambumon/SKUF), availible from several vendors worldwide.
 
-As of the date this is last updated these files have been tested with a CNC milled top and an SLA printed transparent resin bottom. 
+As of the date this is last updated these files have been tested with a CNC milled top, an SLA printed transparent resin bottom, and an SLA printed plate. 
 
 Any further questions contact jatounit on Discord
