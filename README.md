@@ -1,18 +1,12 @@
-# Hubris Case for Minivan PCBs
+# Hubris Case for Vault35 PCBs
 Before using these files please know that I am *not responsible* for any outcomes of their use. These files are uploaded with The Unlicense, feel free to modify, use, distribute, sell, whatever, without permission from me. Again, I am *not liable* for *any* use of these. Thank you.
 
-OMEGA credit to Blind_Panda for the techinical drawing of this! Amazing work there.
+Full credit to rainkeebs for the original Hubris design (among others) and much appreciation for their original decison to release under Unlicense.
 
-Top mount case for Minivan pcbs. Has a 5 degree angle and a front height of ~20mm.
+Top mount case for Vault35 pcbs. Like the original, it has a 5 degree angle and a front height of ~20mm.
 
-Uses 10x m2.5x4(ish)mm screws, [coriander plate](https://trashman.wiki/en/files), and [PrimeKB Feet](https://www.primekb.com/products/bumpons) or [P3D Feet](https://p3dstore.com/products/laser-cut-cork-bumpons)
+Uses 10x m2.5x4(ish)mm screws, a custom plate based on the coriander plate, and [SKUF Keyboard feet](https://github.com/Zambumon/SKUF), availible from several vendors worldwide.
 
-As of the date this is last updated these files have been tested with FDM and SLA 3D printing and CNC milling. I don't recommend getting this SLA printed, when I did they warped a ton. YMMV, but that was my experience. FDM printing works great however!
+As of the date this is last updated these files have been tested with a CNC milled top and an SLA printed transparent resin bottom. 
 
-Any further questions contact rain#3950 on Discord
-
-![Hubris](https://i.imgur.com/IRf7rW5.jpg)
-![Hubris](https://i.imgur.com/wPy5Lha.jpeg)
-![Hubris](https://i.imgur.com/NQmKQTO.jpeg)
-![Hubris](https://i.imgur.com/ur9ffz3.jpeg)
-![Hubris](https://i.imgur.com/SY9aCi8.png)
+Any further questions contact jatounit on Discord
